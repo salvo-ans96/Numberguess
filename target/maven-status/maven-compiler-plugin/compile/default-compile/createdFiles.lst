@@ -1,0 +1,4 @@
+org\jboss\as\quickstarts\numberguess\Game.class
+org\jboss\as\quickstarts\numberguess\Generator.class
+org\jboss\as\quickstarts\numberguess\MaxNumber.class
+org\jboss\as\quickstarts\numberguess\Random.class
